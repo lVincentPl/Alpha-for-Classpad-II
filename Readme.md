@@ -1,5 +1,7 @@
 ## Alpha V1.1.0 for Casio ClassPad II (FX-CP400)
 
+Download: https://github.com/lVincentPl/Alpha-for-Classpad-II/releases
+
 ## Enthaltene Programme:
 
 | Geometrie                 | Storastik                                |
